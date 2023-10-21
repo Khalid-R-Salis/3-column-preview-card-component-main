@@ -62,20 +62,20 @@ body{
 }
 .container h1{
     font-family: 'Big Shoulders Display', sans-serif;
-    padding: .80em 0;
+    padding: .70em 0;
     color: var(--very-light-gray);
 
 }
 .container p{
     color: var(--transparent-white);
-    padding-bottom: 3.5em;
+    padding-bottom: 3em;
     font-family: 'Lexend Deca', sans-serif;
    width: 200px;
    line-height: 1.5em;
   
 }
 img{
-    padding-top: .40em;
+    padding-top: .38em;
 }
 .container > * a {
     text-decoration: none;
