@@ -68,14 +68,14 @@ body{
 }
 .container p{
     color: var(--transparent-white);
-    padding-bottom: 4em;
+    padding-bottom: 3.5em;
     font-family: 'Lexend Deca', sans-serif;
    width: 200px;
-   line-height: 2em;
+   line-height: 1.5em;
   
 }
 img{
-    padding-top: .50em;
+    padding-top: .40em;
 }
 .container > * a {
     text-decoration: none;
