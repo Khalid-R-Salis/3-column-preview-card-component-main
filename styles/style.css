@@ -19,13 +19,13 @@
 body{
     font-size: 15px;
 }
-.container{
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
-    hight: 650px;
-    
+    height: auto;
 }
+
 
 .sedans{
     background-color: var(--bright-orange);
